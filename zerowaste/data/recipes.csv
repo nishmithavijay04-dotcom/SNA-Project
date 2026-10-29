@@ -1,0 +1,28 @@
+recipe_id,name,category,meals,veg,protein_flag,cook_min,labour_min,batch_max,kcal,protein_g,steps
+R01,Steamed rice,staple,"L,D",1,0,35,15,120,280,5.5,"Wash rice 2-3 times|Boil water in the pot, add rice|Cook until soft, drain and rest 5 min|Fluff and keep covered"
+R02,Lemon rice,staple,"L,D",1,0,40,20,100,330,7.0,Cook rice and cool slightly|Temper groundnuts and onion in oil|Mix with lemon juice and salt|Toss gently with rice
+R03,Tomato rice,staple,"L,D",1,0,45,20,100,320,6.5,"Saute onion, add chopped tomato and spices|Add washed rice and water|Cook until done|Rest and fluff"
+R04,Bisibele bath,staple,"L,D",1,1,60,25,100,360,12.0,Pressure-cook dal and rice together|Cook chopped vegetables with spice powder|Combine and simmer|Finish with ghee/tempering
+R05,Curd rice,staple,"L,D",1,0,35,15,120,310,9.0,Cook rice soft and let it cool|Mix with curd and salt|Temper mustard and curry leaves|Serve chilled or at room temperature
+R06,Chapati,staple,"L,D",1,0,60,40,150,240,8.0,Knead dough and rest 20 min|Roll into rounds|Cook on a hot griddle both sides|Stack in a cloth-lined box
+R07,Ragi mudde,staple,"L,D",1,0,40,30,80,280,6.0,Boil water with salt|Add ragi flour and stir continuously|Cook on low heat until smooth|Shape into balls
+R08,Idli,staple,B,1,0,45,20,250,200,6.0,Use fermented batter (soak and ferment the day before)|Pour into greased idli plates|Steam 12-15 min|Serve hot
+R09,Dosa,staple,B,1,0,60,45,200,220,6.0,Use fermented batter (prepared the day before)|Spread on a hot griddle|Cook until crisp|Serve hot
+R10,Upma,staple,B,1,0,30,20,150,260,7.0,"Roast rava lightly|Saute onion and vegetables|Add water and salt, bring to boil|Stir in rava and cover to cook"
+R11,Poha,staple,B,1,0,25,20,150,280,6.0,"Rinse poha and drain|Temper groundnuts, onion and diced potato|Add poha and turmeric|Warm through and finish with lemon"
+R12,Pongal,staple,B,1,1,35,15,150,300,10.0,Dry-roast moong dal|Cook with rice until very soft|Temper pepper and cumin|Mix well
+R13,Sambar,main,"B,L,D",1,1,50,20,200,130,7.0,Pressure-cook dal|Cook vegetables with tamarind and sambar powder|Combine and simmer 10 min|Temper and serve hot
+R14,Dal tadka,main,"L,D",1,1,45,15,200,150,9.0,Pressure-cook dal until soft|Prepare tempering with onion and tomato|Mix into dal|Simmer 5 min
+R15,Chana masala,main,"L,D",1,1,70,25,150,200,10.0,Soak chana overnight|Pressure-cook until soft|Cook onion-tomato masala|Combine and simmer
+R16,Paneer butter masala,main,"L,D",1,1,40,30,120,280,11.0,Cube paneer|Cook onion-tomato gravy and blend|Add spices and cream/butter|Add paneer and simmer 5 min
+R17,Chicken curry,main,"L,D",0,1,60,35,100,260,20.0,Marinate chicken|Cook onion-tomato masala|Add chicken and cook until done (core temp 75 C)|Simmer in gravy
+R18,Egg curry,main,"L,D",0,1,35,25,120,220,13.0,Hard-boil eggs and peel|Cook onion-tomato masala|Add eggs and simmer 8 min|Garnish
+R19,Rasam,side,"L,D",1,0,25,10,250,50,2.5,Boil tomato with tamarind and rasam powder|Add cooked dal water|Temper|Serve hot
+R20,Aloo fry,side,"L,D",1,0,35,25,150,140,3.0,"Boil and cube potatoes|Temper mustard, onion|Add potato and spices|Roast until golden"
+R21,Cabbage poriyal,side,"L,D",1,0,25,20,150,70,2.5,Shred cabbage|Temper mustard and onion|Add cabbage and cook covered|Finish dry
+R22,Beans carrot palya,side,"L,D",1,0,25,20,150,80,2.5,Chop vegetables finely|Temper and add vegetables|Cook covered until tender|Add grated coconut if available
+R23,Cauliflower masala,side,"L,D",1,0,30,25,150,100,3.5,Cut florets|Cook onion-tomato masala|Add cauliflower and cook until tender|Dry-roast to finish
+R24,Brinjal curry,side,"L,D",1,0,30,25,150,110,2.0,Cut brinjal and keep in water|Cook onion-tomato masala|Add brinjal and cook covered|Simmer until soft
+R25,Mixed vegetable curry,side,"L,D",1,0,35,30,150,110,3.0,Chop all vegetables|Cook masala base|Add vegetables and water|Simmer until tender
+R26,Tomato chutney,side,"B,L,D",1,0,20,15,300,50,1.5,Saute onion and tomato|Cool|Grind with salt and chilli|Temper and serve
+R27,Onion raita,side,"L,D",1,0,10,10,300,70,3.5,Whisk curd|Add chopped onion and salt|Chill|Serve

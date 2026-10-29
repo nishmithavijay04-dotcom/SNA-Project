@@ -1,0 +1,77 @@
+recipe_id,item,grams_per_serving
+R01,rice,80
+R02,rice,80
+R02,groundnuts,8
+R02,onion,10
+R03,rice,80
+R03,tomato,60
+R03,onion,25
+R04,rice,55
+R04,toor dal,30
+R04,carrot,20
+R04,beans,20
+R04,potato,20
+R04,onion,15
+R04,tomato,15
+R05,rice,70
+R05,curd,120
+R06,wheat flour,70
+R07,ragi flour,80
+R08,rice,40
+R08,urad dal,15
+R09,rice,50
+R09,urad dal,15
+R10,rava,60
+R10,onion,25
+R10,carrot,15
+R10,beans,10
+R11,poha,60
+R11,onion,25
+R11,potato,20
+R11,groundnuts,8
+R12,rice,50
+R12,moong dal,25
+R13,toor dal,30
+R13,carrot,15
+R13,beans,15
+R13,potato,15
+R13,onion,15
+R13,tomato,20
+R14,toor dal,40
+R14,onion,15
+R14,tomato,20
+R15,chana,40
+R15,onion,25
+R15,tomato,30
+R16,paneer,50
+R16,tomato,60
+R16,onion,30
+R17,chicken,90
+R17,onion,40
+R17,tomato,40
+R18,eggs,110
+R18,onion,30
+R18,tomato,40
+R19,toor dal,10
+R19,tomato,30
+R20,potato,100
+R20,onion,20
+R21,cabbage,100
+R21,onion,10
+R22,beans,60
+R22,carrot,40
+R23,cauliflower,100
+R23,onion,20
+R23,tomato,20
+R24,brinjal,100
+R24,onion,20
+R24,tomato,20
+R25,carrot,30
+R25,beans,30
+R25,potato,30
+R25,cauliflower,30
+R25,onion,15
+R26,tomato,60
+R26,onion,20
+R27,curd,80
+R27,onion,20

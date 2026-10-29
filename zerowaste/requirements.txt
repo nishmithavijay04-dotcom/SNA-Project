@@ -1,0 +1,5 @@
+pandas
+streamlit>=1.40
+scikit-learn
+scipy
+pytest

@@ -1,0 +1,23 @@
+item,price_per_kg,shelf_days
+rice,55,365
+toor dal,130,365
+urad dal,120,365
+moong dal,115,365
+chana,90,365
+wheat flour,40,120
+ragi flour,45,120
+rava,50,180
+poha,55,180
+groundnuts,120,180
+potato,30,30
+onion,35,30
+tomato,40,6
+carrot,50,14
+beans,70,6
+cabbage,30,10
+cauliflower,45,6
+brinjal,50,7
+paneer,330,5
+curd,70,5
+chicken,220,2
+eggs,110,14
